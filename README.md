@@ -48,5 +48,6 @@ elements n such that a uniform distribution over n elements would also have entr
 The program will run until 4 concecutive values for preplexity are constant, it will then stop and display the top 10
 webpages.
 
-
+P.S: Most of this text is obtained from the problem statement available on :
+http://www.ccs.neu.edu/home/jaa/IS4200.12S/projects/Project2PR.html
 
